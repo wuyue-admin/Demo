@@ -2,6 +2,6 @@ package cm.bdqn.demo;
 
 public class Demo {
 	public static void main(String[] args) {
-		System.out.println("²âÊÔ");
+		System.out.println("æˆ‘ä¸çŸ¥é“");
 	}
 }
